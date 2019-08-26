@@ -1,2 +1,2 @@
 # Operating_System
-It is a combination of various task using Java Programming Language. 
+It is a combination of various tasks using Java Programming Language. 
